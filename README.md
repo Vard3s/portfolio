@@ -1,4 +1,3 @@
-# portfolio
 <h1>My Tester's Portfolio</h1>
 <h2>Sekcja 'O mnie'</h2>
 <h2>Narzędzia, czyli zbiór technologii na których pracujesz</h2>
