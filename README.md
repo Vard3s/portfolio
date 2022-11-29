@@ -26,7 +26,7 @@ Work in progress
 <li>Webinar - Testowanie REST API dla początkujących</li>
 <h2>Articles</h2>
 <li><a href="https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ"> Article about creating portfolio in GitHub using my portfolio as example </a></li>
-<h2>Twoja autorska dokumentacja testowa</h2>
+<h2>My own repository</h2>
 Work in progress
-<h2>Twoje projekty</h2>
+<h2>My projects</h2>
 Work in progress
