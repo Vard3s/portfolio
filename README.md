@@ -21,7 +21,7 @@ Work in progress
 <li>testuj.pl - Test, Bugs & Rock'n'Roll</li>
 <li>remigiuszbednarczyk.pl</li>
 <li>pwicherski.gitbook.io</li>
-<h2>Webinary, Meetupy</h2>
+<h2>Webinars and Meetups</h2>
 <li>Webinar - szkoleniedlaqa - Q&A w QA</li>
 <li>Webinar - Testowanie REST API dla początkujących</li>
 <h2>Articles</h2>
