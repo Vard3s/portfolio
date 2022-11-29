@@ -10,7 +10,7 @@ My name is Marcin Kot. I am master of Food Technology and Human Nutrition.I grad
 <h2>Courses</h2>
 <li> <a href="https://billennium.pl/billennium-qa-academy/"> Billennium Course </a> <span>- Dyplom Billennium QA Academy(64h)</span> </li>
 <li> <a href="https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/"> UDEMY </a> <span> - Postman od podstaw - testowanie REST API</span> </li>
-<h2>Techniczne książki</h2>
+<h2>Books</h2>
 Work in progress
 <h2>Groups on Facebook</h2>
 <li> <a href="https://www.facebook.com/groups/testeroprogramowania"> Tester oprogramowania - wsparcie na starcie </a></li>
