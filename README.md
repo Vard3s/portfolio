@@ -7,9 +7,10 @@ My name is Marcin Kot. I am master of Food Technology and Human Nutrition.I grad
 <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl"> Bug Magnet</a> <span> I teach myself how to use this devtool.</span></li>
 <li><a href="https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph"> xPath Finder</a> <span>  - xPath finding tool</span></li>
 <li>Github</li>
-<h2>Courses</h2>
+<h2>Courses and certificates</h2>
 <li> <a href="https://billennium.pl/billennium-qa-academy/"> Billennium Course </a> <span>- Dyplom Billennium QA Academy(64h)</span> </li>
 <li> <a href="https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/"> UDEMY </a> <span> - Postman od podstaw - testowanie REST API</span> </li>
+<li> GO IT - 7 days maraton where we created CV in HTML and CSS.
 <h2>Books</h2>
 Work in progress
 <h2>Groups on Facebook</h2>
