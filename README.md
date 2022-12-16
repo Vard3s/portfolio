@@ -28,7 +28,9 @@ Work in progress
 <li>Webinar - MeetQA #6 - waiting, start 07.12.2012</li>
 <h2>Articles</h2>
 <li><a href="https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ"> Article about creating portfolio in GitHub using my portfolio as example </a></li>
-<h2>My own repository</h2>
-Work in progress
 <h2>My projects</h2>
-Work in progress
+<li>
+My project - testing site <a href="https://billennium.pl/"> Billennium.pl </a>
+<ul><li>
+<a href="https://trello.com/invite/b/L7cnL5Bo/ATTI391cdda5f964c72bd495e8d5035245f817FDCFDF/test-strony-billenium"> Tabilica Trello.com - Billennium </a>
+</li></ul></li>
