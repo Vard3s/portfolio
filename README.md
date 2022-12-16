@@ -25,7 +25,7 @@ Work in progress
 <h2>Webinars and Meetups</h2>
 <li>Webinar - szkoleniedlaqa - Q&A w QA</li>
 <li>Webinar - Testowanie REST API dla początkujących</li>
-<li>Webinar - MeetQA #6 - waiting, start 07.12.2012</li>
+<li>Webinar - MeetQA #6 - Quality Assurance biznesowo</li>
 <h2>Articles</h2>
 <li><a href="https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ"> Article about creating portfolio in GitHub using my portfolio as example </a></li>
 <h2>My projects</h2>
