@@ -5,7 +5,6 @@ My name is Marcin Kot. I am master of Food Technology and Human Nutrition.I grad
 <li> <a href="https://www.postman.com"> Postman</a> <span>- Testing tool for REST API</span> </li>
 <li> <a href="https://www.atlassian.com/"> Jira </a> <span>,</span> <a href="https://trello.com/u/thevardes/boards"> Trello </a> <span> - Issue tracking and project management tool for developers</span> </li>
 <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl"> Bug Magnet</a> <span> I teach myself how to use this devtool.</span></li>
-<li><a href="https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph"> xPath Finder</a> <span>  - xPath finding tool</span></li>
 <li>Github</li>
 <h2>Courses and certificates</h2>
 <li> <a href="https://billennium.pl/billennium-qa-academy/"> Billennium Course </a> <span>- Dyplom Billennium QA Academy(64h)</span> </li>
@@ -26,6 +25,7 @@ Work in progress
 <li>Webinar - szkoleniedlaqa - Q&A w QA</li>
 <li>Webinar - Testowanie REST API dla początkujących</li>
 <li>Webinar - MeetQA #6 - Quality Assurance biznesowo</li>
+<li>Webinar - DareIT Junior QA - Najbardziej podane umiejętności i rola w zespole developerskim</li>
 <h2>Articles</h2>
 <li><a href="https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ"> Article about creating portfolio in GitHub using my portfolio as example </a></li>
 <h2>My projects</h2>
@@ -34,3 +34,5 @@ My project - testing site <a href="https://billennium.pl/"> Billennium.pl </a>
 <ul><li>
 <a href="https://trello.com/invite/b/L7cnL5Bo/ATTI391cdda5f964c72bd495e8d5035245f817FDCFDF/test-strony-billenium"> Tabilica Trello.com - Billennium </a>
 </li></ul></li>
+<h2>Hobby</h2>
+<li>Create video on youtube -  Now I have 3k subscribers.   </li>
