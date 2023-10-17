@@ -1,4 +1,4 @@
-<h1>My Tester's Portfolio</h1>
+<h1>Marcin Kot - Portfolio</h1>
 <h2>About me</h2>
 My name is Marcin Kot. I work as manual tester from one year. My first experience was begining in the course in Billennium S.A. The course prepared me to new work. 
 Next step I got intership in Billennium S.A. where I assigned to a senior QA Engineer mentor to improve theoretical knowledge with practice and basic technical skills.
@@ -6,7 +6,6 @@ After intership I was emplyed on position Junior QA Enginner where I'm working n
 <h2>Tools</h2>
 <li> <a href="https://www.postman.com"> Postman</a> <span>- Testing tool for REST API</span> </li>
 <li> <a href="https://www.atlassian.com/"> Jira </a> <span>,</span> <a href="https://trello.com/u/thevardes/boards"> Trello </a> <span> - Issue tracking and project management tool for developers</span> </li>
-<li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl"> Bug Magnet</a> <span> I teach myself how to use this devtool.</span></li>
 <li>Github</li>
 <h2>Courses and certificates</h2>
 <li> <a href="https://billennium.pl/billennium-qa-academy/"> Billennium Course </a> <span>- Dyplom Billennium QA Academy(64h)</span> </li>
