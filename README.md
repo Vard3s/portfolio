@@ -19,22 +19,33 @@ After intership I was emplyed on position Junior QA Enginner where I'm working n
 <li> <a href="https://www.facebook.com/groups/TestowanieOprogramowania"> Testowanie oprogramowania </a></li>
 <li> <a href="https://www.facebook.com/GildiaTesterow"> Gildia Testerów </a></li>
 <h2>Recommended blogs</h2>
-<li>testerzy.pl</li>
-<li>testuj.pl - Test, Bugs & Rock'n'Roll</li>
-<li>remigiuszbednarczyk.pl</li>
-<li>pwicherski.gitbook.io</li>
+<li><a href="https://www.youtube.com/@TestowaniePodcast/videos"> TestowaniePodcast</a></li>
+<li><a href="https://testerzy.pl/"> testerzy.pl</a></li>
+<li><a href="remigiuszbednarczyk.pl"> remigiuszbednarczyk.pl</a></li>
+<li><a href="pwicherski.gitbook.io"> pwicherski.gitbook.io</a></li>
 <h2>Webinars and Meetups</h2>
 <li>Webinar - szkoleniedlaqa - Q&A w QA</li>
 <li>Webinar - Testowanie REST API dla początkujących</li>
 <li>Webinar - MeetQA #6 - Quality Assurance biznesowo</li>
 <li>Webinar - DareIT Junior QA - Najbardziej podane umiejętności i rola w zespole developerskim</li>
-<h2>Articles</h2>
-<li><a href="https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ"> Article about creating portfolio in GitHub using my portfolio as example </a></li>
 <h2>My projects</h2>
-<li>
-My project - testing site <a href="https://billennium.pl/"> Billennium.pl </a>
-<ul><li>
-<a href="https://trello.com/invite/b/L7cnL5Bo/ATTI391cdda5f964c72bd495e8d5035245f817FDCFDF/test-strony-billenium"> Tabilica Trello.com - Billennium </a>
-</li></ul></li>
+<li>Academybugs <a href="https://academybugs.com/"> AcademyBugs.com </a>
+  <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/1U3tOVg61bq_mBzOrWUo7aaIERvdyxjga/edit?usp=share_link&ouid=101217181469514723908&rtpof=true&sd=true"> Test cases </a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/19Z0IS7_GsrtwWuTNaU7v851KDVZlcPr9/edit?usp=share_link&ouid=101217181469514723908&rtpof=true&sd=true"> Test execution </a></li>
+  </ul>
+<li>Kurs-selenium - Exploration tests <a href="http://www.kurs-selenium.pl/demo/"> kurs-selenium.pl </a>
+  <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/1NMA6s2Odj_VFgXCPZD6md-Onc7OHuI9c/edit?usp=share_link&ouid=101217181469514723908&rtpof=true&sd=true"> Test cases and execution </a></li>
+  </ul>
+<li> Diagram <a href="https://drive.google.com/file/d/1YkiEEJqRnjODiimjY9kERdTlgkdOEuH9/view?usp=share_link"> Diagram </a>
+  <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/1XzZ_RGsXx_rseRN5UqjfHoEB2jijTujb/edit?usp=share_link&ouid=101217181469514723908&rtpof=true&sd=true"> Test cases to diagram </a></li>
+  </ul>
+<li> Exercises - SQL queres <a href="https://docs.google.com/document/d/1WIlqq62kAVFzOBAgnxYkHTfbssUwEABF/edit?usp=share_link&ouid=101217181469514723908&rtpof=true&sd=true"> SQL exercises </a>
+
+</li>
 <h2>Hobby</h2>
-<li>Create video on youtube -  Now I have 4.3k subscribers.   </li>
+<li>Creating video on youtube platform   </li>
+<li>Board games</li>
+<li>Game studies</li>
