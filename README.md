@@ -28,6 +28,7 @@ After intership I was emplyed on position Junior QA Enginner where I'm working n
 <li>Webinar - Testowanie REST API dla początkujących</li>
 <li>Webinar - MeetQA #6 - Quality Assurance biznesowo</li>
 <li>Webinar - DareIT Junior QA - Najbardziej podane umiejętności i rola w zespole developerskim</li>
+<li>Webinars and Meetups within the company</li>
 <h2>My projects</h2>
 <li>Academybugs <a href="https://academybugs.com/"> AcademyBugs.com </a>
   <ul>
